@@ -14,7 +14,7 @@ This project implements several fundamental Machine Learning algorithms from scr
 - **Dependencies**: Implemented using only `NumPy`, `Pandas`, and `Matplotlib` for data manipulation and visualization.
 - **Fully from Scratch**: No use of external machine learning libraries, ensuring in-depth understanding of algorithm mechanics.
 
-
+<br><br>
 # CNN model implimentation on MNIST & Fashion MNIST
 
 This project implements a Convolutional Neural Network (CNN) to classify the MNIST and Fashion MNIST datasets using PyTorch, with key libraries like NumPy, Pandas, and Matplotlib for data processing and visualization. It includes two primary implementations: a custom CNN model and a version leveraging ResNet for enhanced feature extraction. Additionally, various image transformations are applied to observe their impact on model performance.
